@@ -14,8 +14,8 @@ body {
 
 .kinetic {
 	position: relative;
-	height: 200px;
-	width: 200px;
+	height: 80px;
+	width: 80px;
 }
 
 .kinetic::after, 
@@ -26,7 +26,7 @@ body {
 	width: 0;
 	width: 0;
 	height: 0;
-	border: 150px solid transparent;
+	border: 50px solid transparent;
 	border-bottom-color: #fff;
 	animation: rotateA 2s linear infinite 0.5s;
 }
